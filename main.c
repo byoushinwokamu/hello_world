@@ -1,2 +1,7 @@
 #include <stdio.h>
-main() { puts("Hello World!"); }
+#include "hello.h"
+
+int main() { 
+    hello();
+    return 0;
+}
