@@ -1,5 +1,3 @@
 #include <stdio.h>
 
-void hello(void){
-    puts("Hello, Kiwoong!");
-}
+void hello(void) { puts("Hello LEESEOKGWON"); }
